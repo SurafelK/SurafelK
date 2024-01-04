@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently AVL Website and YYDTS Sales Managment System<br>👯 I’m looking to collaborate<br>🌱 I’m currently learning Kotlin Mobile App Development <br>💬 Ask me about JS, PHP or any tech related questions<br>⚡ Fun fact - I'm an avid supporter of [Your Favorite Football Team]. The highs and lows of each season make every match an emotional rollercoaster.
+🔭 I’m currently working on AVL Website and YYDTS Sales Managment System<br>👯 I’m looking to collaborate<br>🌱 I’m currently learning Kotlin Mobile App Development <br>💬 Ask me about JS, PHP or any tech related questions<br>⚡ Fun fact - I'm an avid supporter of [Your Favorite Football Team]. The highs and lows of each season make every match an emotional rollercoaster.
 
 
 ## 🌐 Socials:
