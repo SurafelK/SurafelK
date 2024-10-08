@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently Looking for a job<br>👯 I’m looking to collaborate on a web based systems and websites<br>🌱 I’m currently learning Kotlin for Mobile Application Development<br>💬 Ask me about JS, PHP or any tech related questions<br>⚡ Fun fact - I'm an avid supporter of Manchester United. The highs and lows of each season make every match an emotional rollercoaster.
+🔭 I’m currently Looking for a job<br>👯 I’m looking to collaborate on a web based systems and websites<br>💬 Ask me about JS, PHP or any tech related questions<br>⚡ Fun fact - I'm an avid supporter of Manchester United. The highs and lows of each season make every match an emotional rollercoaster.
 
 
 ## 🌐 Socials:
