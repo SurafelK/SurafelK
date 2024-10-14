@@ -12,6 +12,9 @@ Hey there! 👋 I'm **Surafel**, a passionate Full Stack Developer. I'm currentl
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/surafel.kassahun.18/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/sura_de_weeknd/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/surafel-kassahun-92a048298/)
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="surafel-kassahun-92a048298" data-version="v1">
+    <a class="badge-base__link LI-simple-link" href="https://et.linkedin.com/in/surafel-kassahun-92a048298?trk=profile-badge">Surafel Kassahun</a>
+</div>
 
 ## 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
