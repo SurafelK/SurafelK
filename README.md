@@ -1,4 +1,16 @@
-I've updated your README to include your LinkedIn URL:
+The issue with fetching total commits might be due to a temporary problem with the GitHub API or the GitHub Stats service you're using. Sometimes these services face rate limits or temporary outages. Here are a few alternatives to address this:
+
+### 1. Use an Alternative GitHub Stats Service
+You can switch to another service or modify the code to try and fetch your GitHub stats. For example, use `GitHub Readme Stats` but from a different hosted instance:
+
+```md
+![Surafel's GitHub stats](https://github-readme-stats-ruby-one.vercel.app/api?username=SurafelK&show_icons=true&theme=city_light&hide_border=false&count_private=true)
+```
+
+You can also deploy your own instance of `github-readme-stats` on Vercel by following [this guide](https://github.com/anuraghazra/github-readme-stats).
+
+### 2. Remove the Total Commits Information
+You can also remove the part that displays the total commits if it continues to cause issues. Here’s the updated version without that:
 
 ---
 
@@ -28,7 +40,7 @@ Hey there! 👋 I'm **Surafel**, a passionate Full Stack Developer. I'm currentl
 
 ## 📊 GitHub Stats:
 <div align="center">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=SurafelK&theme=city_light&hide_border=false&include_all_commits=true&count_private=true"/>
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=SurafelK&theme=city_light&hide_border=false&include_all_commits=false&count_private=true"/>
   <img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=SurafelK&theme=city_light&hide_border=false"/>
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SurafelK&theme=city_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 </div>
@@ -48,4 +60,4 @@ I'm open to **collaboration** on web-based projects, **freelance opportunities**
 
 ---
 
-Feel free to make further adjustments or add more details if needed!
+Try these changes, and let me know if there's anything else you'd like to adjust!
